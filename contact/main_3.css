@@ -145,11 +145,12 @@ li a{
     margin-top:5px;
     margin-left:5px;
     margin-bottom:5px;
-    text-align:center;
+    /*text-align:center;*/
     /*color: white;*/
     font-weight: bold;
 }
 #footer p{
+    text-indent:350px;
 	font-size: 16px;
 	font-weight: bold;
 }
